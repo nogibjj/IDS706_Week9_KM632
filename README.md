@@ -1,4 +1,4 @@
-# WEEK 9 Cloud-Based Notebook Project
+# WEEK9 Cloud-Based Notebook Project
 
 ## Project Overview
 In this project, we analyze the Billionaires Statistics Dataset (2023) from Kaggle
@@ -7,11 +7,13 @@ In this project, we analyze the Billionaires Statistics Dataset (2023) from Kagg
 Firstly, I took at a look at the number of billionares by gender and observed the following: 
   Male : 2303
   Female : 337 
+  
 Secondly, I wanted to know what percentage of the male and female population are self made. Following are the result. 
 As we can see that there are 96 women self-made billionaires and 1716 self-made males which really surprised me. 
+![Alt Text](selfmade.png)
 
-Thirdlt, I analyse the top 5 industries producing the highest number of billionares. Result below. 
-
+Thirdly, I analyse the top 5 industries producing the highest number of billionares. Result below. 
+![Alt Text](industry.png)
 
 ## Conclusion 
 
