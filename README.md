@@ -15,10 +15,15 @@ As we can see that there are 96 women self-made billionaires and 1716 self-made 
 Thirdly, I analyse the top 5 industries producing the highest number of billionares. Result below. 
 
 Top 5 Categories for Self-Made Billionaires:
+
 Technology               292
+
 Finance & Investments    276
+
 Manufacturing            235
+
 Fashion & Retail         159
+
 Healthcare               146
 
 ## Conclusion 
